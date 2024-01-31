@@ -2,7 +2,7 @@
 I utilised SQL and Power BI to perform a comprehensive analysis of US Hospital Diabetes Data from the years 1999-2008. 
 I chose this dataset due to how extensive it was, allowing me to highlight my exploratory data analysis capabilities. 
 
-**Link to project:** https://political-era-e3e.notion.site/SQL-Power-BI-Analysis-of-US-Hospital-Diabetes-Data-1999-2008-ae1edceaf09a443cb84c4eb20e03fc26
+**Link to project:** https://tiaparker.notion.site/SQL-Power-BI-Analysis-of-US-Hospital-Diabetes-Data-1999-2008-ae1edceaf09a443cb84c4eb20e03fc26
 
 
 The project includes:
